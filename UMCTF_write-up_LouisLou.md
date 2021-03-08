@@ -1,6 +1,3 @@
-UMCTF_write-up_LouisLou
-
-
 # UMCTF Competition Noob's Hackathon 公開組
 
 
@@ -12,13 +9,14 @@ UMCTF_write-up_LouisLou
 
 
 ## **Question:**
->**Macow**
+>**Macow**</br>
 >Author: **RB916120**
 
->do you remember macow??
+>do you remember macow??</br>
 >flag in the file [http://bit.ly/2N8960t](http://bit.ly/2N8960t)
 
 
 ## **write-up:**
 
->首先 unzip file，然後利用 IDE Editor Search “CTF”，另一部分通過 Search "}" 找到。
+>首先 unzip file，然後利用 IDE Editor Search “**CTF**”，另一部分通過 Search "**}**" 找到。
+
