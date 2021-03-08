@@ -1,6 +1,3 @@
-UMCTF_write-up_LouisLou
-
-
 # UMCTF Competition Noob's Hackathon 公開組
 
 
