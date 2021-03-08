@@ -18,4 +18,4 @@
 
 ## **write-up:**
 
->首先 unzip file，然後利用 IDE Editor Search “CTF”，另一部分通過 Search "}" 找到。
+>首先 unzip file，然後利用 IDE Editor Search “**CTF**”，另一部分通過 Search "**}**" 找到。
