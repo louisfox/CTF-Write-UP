@@ -21,6 +21,7 @@
 >首先 unzip file，然後利用 IDE Editor Search “**CTF**”，另一部分通過 Search "**}**" 找到。
 
 
+
 # Miscellaneous - UMCTF2021 - snakeCage
 
 - Write-Up Author: **Louis Lou**
@@ -32,17 +33,17 @@
 >**snakeCage**</br>
 >Author: **RB916120**
 
->can you escape from snake cage?
+>can you escape from snake cage?</br>
 >nc 13.75.78.108 38001
 
 
 ## **write-up:**
 
 >**Step 1：**
->import os; print(os.listdir('.'));
+>import os; print(os.listdir('.'));</br>
 >會見到fs有個叫flag的檔
 
 >**Step 2：**
->再用 open('flag').read() 就會知道個flag
+>再用 open('flag').read() 就會知道個flag</br>
 >import os; print(open('flag').read());
 
