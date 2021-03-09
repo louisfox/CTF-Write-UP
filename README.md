@@ -1,5 +1,6 @@
 # UMCTF Competition Noob's Hackathon 公開組
 
+----
 
 # Miscellaneous - UMCTF2021 - Macow
 
@@ -22,6 +23,7 @@
 > 
 > 
 
+----
 
 # Miscellaneous - UMCTF2021 - snakeCage
 
@@ -50,3 +52,26 @@
 > 
 > 
 
+----
+
+# Miscellaneous - UMCTF2021 - takeit
+
+- Write-Up Author: **Louis Lou**
+
+- Flag: **MOCSCTF{55h_15_!_700_h4rd!!!!!!!!!!!!!!!}**
+
+
+## **Question:**
+>**takeit**</br>
+>Author: **RB916120**
+
+>i put the flag on the screen, take it if you can end the session</br>
+>
+>ssh eofffff@13.75.78.108 -p 38004 (password: DthBqhs8n)
+
+
+## **write-up:**
+
+>手機拍片逐格睇
+> 
+> 
