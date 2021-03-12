@@ -297,6 +297,7 @@
 ## **write-up:**
 
 >goto factored.com ( http://factordb.com/ ) </br>
+>
 >利用 n 找出 p, q</br>
 >
 >代入 RSA python 程式解之</br>
