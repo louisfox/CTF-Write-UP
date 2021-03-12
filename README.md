@@ -150,3 +150,61 @@
 >use https://stylesuxx.github.io/steganography/ find another part.</br>
 >
 > 
+
+----
+
+# Crypto - UMCTF2021 - caesars army
+
+- Write-Up Author: **Louis Lou**
+
+- Flag: **MOCSCTF{y0u_c4n_d3cryp7_f4573r_4nd_f4573r~~}**
+
+
+## **Question:**
+>**caesars army**</br>
+>Author: **RB916120**
+
+>some caesars around me, please decrypt them and get the flag.</br>
+>
+>nc 13.75.78.108 37002</br>
+>
+
+
+## **write-up:**
+
+>Cryptii : use Caesar cipher (Encode)
+>https://cryptii.com/pipes/binary-to-base64
+>改變shift並留意出現 “msg is : ”, 完成回答 20 次 全對後就出 Flag
+>
+> 
+
+----
+
+# Crypto - UMCTF2021 - Vigenere
+
+- Write-Up Author: **Louis Lou**
+
+- Flag: **MOCSCTF{mocsctfissomuchfun}**
+
+
+## **Question:**
+>**Vigenere**</br>
+>Author: **Bon**
+
+>I don't think this question can beats you, am I right? ;) (please use the formal flag format. MOCSCTF{Decrypt Key})</br>
+>
+>Fvg xkkxb owzx-xqjzgrzhgv fxxkjadfcqu tz n bcnqceupstsfce jnjuqf ysu ud Twgb Nuvanmgm Ontgkyq sfr gmgk f grfon ukimmj vwee vv xqvfqj tgmbmwf qujjlw uybvctgmx. Idtsdnkz xsffso gped aoahobgk ffctodwvl fnlwf eyxlwuy ictvu, tsl kowfwjlx qrds kffbhilwr ns yynnvzu vzg ejblwf az voj wbdfgkrhslafu mfrofvrf wp ljx hqhzsdngey. Fnfst, Bqafvfwg Flkamyzuiu, ap ana ogfw Jqsdaemdjacx , nvnwbfyf amy gmpwdc kjkls, o olkanwnx qqerhsmfl cr njl Actqbgjg vnxzwf. Fbg Awcgtsoawl hqhzsd, bqdjprd, dtgxbimv s ddiiyjmfujg, jcmmmj jwscf hsx cdsfaemfjdw gkmvlr zbd gyavvmqfy pqnyljh pudjwt tqxzspqnu. Wqynes wkg mmm cwm mm voj zymu.
+>
+>
+
+## **write-up:**
+
+>goto https://www.guballa.de/vigenere-solver</br>
+>貼上上面的文章</br>
+>
+>“Break Cipher” 後 爆出可讀文章</br>
+>
+>找 Clear text using key “mocsctfissomuchfun” 就是flag!</br>
+>
+>
+ 
