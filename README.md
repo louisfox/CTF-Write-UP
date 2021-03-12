@@ -306,8 +306,42 @@
 >**Text in :**</br>
 >-.. .---- -.. ....- .... -.. .. -.. .---- -.. ....- .... -.. .. -.. ....- .... -.. .----
 >
->**DECODE :**  Morse code
+>**DECODE :**</br>
+>Morse code
 >
 >**Text out :**</br>
 >d1d4hdid1d4hdid4hd1
 >
+>
+
+----
+
+# OSINT - UMCTF2021 - magic_swirl
+
+- Write-Up Author: **Louis Lou**
+
+- Flag: **MOCSCTF{7PJM6H23+25}**
+
+
+## **Question:**
+>**magic_swirl**</br>
+>Author: **RB916120**
+
+>find the plus code of this location!!
+>
+>please calculate the code with the swirl center position hints :
+>
+> https://github.com/MOCSCTF/CTF-Write-UP/tree/master/OSINT/SyskronSecurityCTF2020%20-%20Sightseeing%20again
+>
+
+
+## **write-up:**
+
+>Step 1.</br>
+>open google map 在松山 找到 迴旋形（the swirl center ）建築物，坐標是 （22.200094, 113.552920）plus code : 6H23+25 Macau
+>
+>Step 2.</br>
+>利用 https://plus.codes/map 輸入6H23+25 Macau , 再點 下方的 ^ ，右邊顯示出正確碼： 7PJM6H23+25
+>
+>
+
