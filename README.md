@@ -255,3 +255,59 @@
 >
 >
 
+----
+
+# Miscellaneous - UMCTF2021 - Happy Check
+
+- Write-Up Author: **Louis Lou**
+
+- Flag: **MOCSCTF{VGhpc19pc19hbl9lc3p5X2NoZWNr}**
+
+
+## **Question:**
+>**Happy Check**</br>
+>Author: **P0tato@天璇merak 20級**
+
+>image with wrong spelling??? http://bit.ly/3r89I4B</br>
+>
+
+
+## **write-up:**
+
+>直接拼圖找答
+> 
+> 
+
+----
+
+# Miscellaneous - UMCTF2021 - Mo talking to Res
+
+- Write-Up Author: **Louis Lou**
+
+- Flag: **MOCSCTF{d1d4hdid1d4hdid4hd1}**
+
+
+## **Question:**
+>**Mo talking to Res**</br>
+>Author: **P0tato@天璇merak 20級**
+
+>Mo:"Dah-di-dit di-dah-dah-dah-dah dah-di-dit di-di-di-di-dah di-di-di-dit dah-di-dit di-dit dah-di-dit di-dah-dah-dah-dah dah-di-dit di-di-di-di-dah di-di-di-dit dah-di-dit di-dit dah-di-dit di-di-di-di-dah di-di-di-dit dah-di-dit di-dah-dah-dah-dah"
+>
+>Res:"hey. that is fun.."
+>
+>please submit the flag with below format: **MOCSCTF{flag}**
+>
+
+
+## **write-up:**
+
+>https://cryptii.com/
+>
+>Text in :</br>
+>-.. .---- -.. ....- .... -.. .. -.. .---- -.. ....- .... -.. .. -.. ....- .... -.. .----
+>
+>DECODE :  Morse code
+>
+>Text out :</br>
+>d1d4hdid1d4hdid4hd1
+>
