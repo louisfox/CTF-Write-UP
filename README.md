@@ -211,7 +211,10 @@
 >Author: **TeruLei**
 
 >hi,hi,hide in a pic~</br>
->
+
+
+## **File(s):**
+Forensic/388_hide.zip
 
 
 ## **write-up:**
