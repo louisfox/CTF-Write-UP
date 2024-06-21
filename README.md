@@ -215,6 +215,7 @@
 
 ## **File(s):**
 Forensic/388_hide.zip
+https://github.com/louisfox/CTF-Write-UP/blob/main/Forensic/388_hide.zip
 
 
 ## **write-up:**
