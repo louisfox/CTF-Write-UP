@@ -182,6 +182,11 @@
 >nc 52.175.52.175 39002
 
 
+## **File(s):**
+Pwn/388_hide.zip
+https://github.com/louisfox/CTF-Write-UP/blob/main/Pwn/388_hide.zip
+
+
 ## **write-up:**
 >留意到 latte.c 中有 floor == 0xcafebabe
 >
